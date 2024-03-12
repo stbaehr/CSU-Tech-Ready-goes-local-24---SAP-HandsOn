@@ -36,39 +36,36 @@ Our journey will start from ...
 > [!IMPORTANT]
 >The guide and screenshots refer to the English terms. We recommend to **adjust your browser language to English** to avoid confusion. Otherwise some of the translated texts can be misleading. 
 
-## Meet your Mentors, learn more about the journey and kick-off
+## Introduction - Meet your Mentors, learn more about the journey and kick-off
 
 🌟
-🕒 20 mins
+🕒 10 mins
 
-## [Quest 1](student/quest1.md) - Using Gen AI to create images
+## [Quest 1](student/quest1.md) - Get familiar with SAP Fiori UI
 
 🌟
 🕒 15 min
->Use AI Image creator to generate your own content ... make it personal!
+>Logon to public SAP system and browse products.
 
-## [Quest 2](student/quest2.md) - Create your first own Chatbot 
+## [Quest 2](student/quest2.md) - Create a new product in SAP 
 
 🌟🌟
 🕒 25 mins
->Lets start with your first own chatbot you ever created, it's easy! You can even connect to to public websites!
+>Use given Power App to create a product in SAP and check the result.
 
-⏳Take a natural break here if suitable.
-
-## [Quest 3](student/quest3.md) - Extend your Chatbot with more Data
+## [Quest 3](student/quest3.md) - Use Copilot Studio and create a Power Automate Flow
 
 🌟🌟🌟
 🕒 30 min
->Check out how easy it is to extend the chatbot capabilities with your own data!
+>Use Copilot Studio and create a Power Automate Flow.
 
-## [Quest 4](student/quest4.md) - Lets Chat with a real SAP system
+## [Quest 4](student/quest4.md) - Chat with you SAP data
 
-🌟🌟🌟🌟
+🌟
 🕒 30 mins
->Now we do some advanced exercise. Chat with SAP data!
+>Find out what the Chatbot can tell you about your product
 
-> [!TIP]
->🏆Finish the final quest, collect the pass phrase, and redeem it to claim [your badge](https://webhostingforconverter.z16.web.core.windows.net/claim-reward-chatgpt.html) 😎
+😎
 
 ## Where to next?
 
