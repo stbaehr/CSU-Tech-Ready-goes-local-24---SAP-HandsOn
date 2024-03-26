@@ -1,5 +1,5 @@
-# CSU Airlift 24 - SAP HandsOn
- Chat with your SAP data
+# Azure Tech Ready goes local - SAP HandsOn
+Chat with your SAP data
 
 Welcome to your **SAP with Microsoft hands-on lab** experience! This repo gets you all setup to embark on your assigned epic quest. Excited yet? This is the line up including the lectures taking place on the 25th of April 2024:
 
