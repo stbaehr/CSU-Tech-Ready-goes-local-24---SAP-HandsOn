@@ -17,31 +17,16 @@ Find us on-site in Munich. We are looking forward to meeting you in person! 🤝
 # Build your own ChatGPT and chat with SAP data
 ## Challange user accounts
 
-| User name	    |
-|---------------|
-| user1@baehrshh.onmicrosoft.com	| 
-| user2@baehrshh.onmicrosoft.com	| 
-| user3@baehrshh.onmicrosoft.com	|
-| user4@baehrshh.onmicrosoft.com	| 
-| user5@baehrshh.onmicrosoft.com	| 
-| user6@baehrshh.onmicrosoft.com	|
-| user7@baehrshh.onmicrosoft.com	|
-| user8@baehrshh.onmicrosoft.com	|
-| user9@baehrshh.onmicrosoft.com	|
-| user10@baehrshh.onmicrosoft.com	|
-| user11@baehrshh.onmicrosoft.com	|
-| user12@baehrshh.onmicrosoft.com	|
-| user13@baehrshh.onmicrosoft.com	|
-| user14@baehrshh.onmicrosoft.com	|
-| user15@baehrshh.onmicrosoft.com	|
-| user16@baehrshh.onmicrosoft.com	| 
-| user17@baehrshh.onmicrosoft.com	| 
-| user18@baehrshh.onmicrosoft.com	| 
-| user19@baehrshh.onmicrosoft.com	| 
-| user20@baehrshh.onmicrosoft.com	| 
-| user21@baehrshh.onmicrosoft.com	| 
-| user22@baehrshh.onmicrosoft.com	| 
-| user23@baehrshh.onmicrosoft.com	| 
+| User name	    | User name	    | User name	    |
+|---------------|---------------|---------------|
+| user1@baehrshh.onmicrosoft.com	| user9@baehrshh.onmicrosoft.com	| user17@baehrshh.onmicrosoft.com	| 
+| user2@baehrshh.onmicrosoft.com	| user10@baehrshh.onmicrosoft.com	| user18@baehrshh.onmicrosoft.com	| 
+| user3@baehrshh.onmicrosoft.com	| user11@baehrshh.onmicrosoft.com	| user19@baehrshh.onmicrosoft.com	| 
+| user4@baehrshh.onmicrosoft.com	| user12@baehrshh.onmicrosoft.com	| user20@baehrshh.onmicrosoft.com	| 
+| user5@baehrshh.onmicrosoft.com	| user13@baehrshh.onmicrosoft.com	| user21@baehrshh.onmicrosoft.com	| 
+| user6@baehrshh.onmicrosoft.com	| user14@baehrshh.onmicrosoft.com	| user22@baehrshh.onmicrosoft.com	| 
+| user7@baehrshh.onmicrosoft.com	| user15@baehrshh.onmicrosoft.com	| user23@baehrshh.onmicrosoft.com	| 
+| user8@baehrshh.onmicrosoft.com	| user16@baehrshh.onmicrosoft.com	| 
 
 
 ## 🧙🏾‍♀️Epic Quests
