@@ -17,13 +17,33 @@ Find us on-site in Munich. We are looking forward to meeting you in person! 🤝
 # Build your own ChatGPT and chat with SAP data
 ## Pre-requisites
 
-- [Microosft Outlook](https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook) Microsoft ID / User / Email Adress, e.g. lastname@outlook.com, user@hotmail.com, ...
+Challange user accounts
+| User name	    | Password   |
+|---------------|------------|
+| user1@baehrshh.onmicrosoft.com	| Willkommen123  | 
+| user2@baehrshh.onmicrosoft.com	| Willkommen123  |
+| user3@baehrshh.onmicrosoft.com	| Willkommen123  |
+| user4@baehrshh.onmicrosoft.com	| Willkommen123  |
+| user5@baehrshh.onmicrosoft.com	| Willkommen123  |
+| user6@baehrshh.onmicrosoft.com	| Willkommen123  |
+| user7@baehrshh.onmicrosoft.com	| Willkommen123  |
+| user8@baehrshh.onmicrosoft.com	| Willkommen123  |
+| user9@baehrshh.onmicrosoft.com	| Willkommen123  |
+| user10@baehrshh.onmicrosoft.com	| Willkommen123  |
+| user11@baehrshh.onmicrosoft.com	| Willkommen123  |
+| user12@baehrshh.onmicrosoft.com	| Willkommen123  |
+| user13@baehrshh.onmicrosoft.com	| Willkommen123  |
+| user14@baehrshh.onmicrosoft.com	| Willkommen123  |
+| user15@baehrshh.onmicrosoft.com	| Willkommen123  |
+| user16@baehrshh.onmicrosoft.com	| Willkommen123  |
+| user17@baehrshh.onmicrosoft.com	| Willkommen123  |
+| user18@baehrshh.onmicrosoft.com	| Willkommen123  |
+| user19@baehrshh.onmicrosoft.com	| Willkommen123  |
+| user20@baehrshh.onmicrosoft.com	| Willkommen123  |
+| user21@baehrshh.onmicrosoft.com	| Willkommen123  |
+| user22@baehrshh.onmicrosoft.com	| Willkommen123  |
+| user23@baehrshh.onmicrosoft.com	| Willkommen123  |
 
-> [!NOTE]
->🏋🏽Only required if you are **not** using this as part of a prepared Hands-on session (e.g. DSAG)
->- [Azure subscription](https://azure.microsoft.com/free/) with quota for Azure OpenAI Service and authorization to access API keys
->- [Microsoft 365 Developer Program](https://developer.microsoft.com/en-us/microsoft-365/dev-program) to create a Work / School account which can be used to access Copilot Studio
->- [Power Automate License](https://powerapps.microsoft.com/en-us/developerplan/) get be request via the Power Apps Developer Plan 
 
 ## 🧙🏾‍♀️Epic Quests
 
