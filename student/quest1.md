@@ -8,7 +8,9 @@
 
 * Open a browser in Incognito Mode
 
-* Go to [ES5 Webgui](https://sapes5.sapdevcenter.com/sap/bc/gui/sap/its/webgui) to open the ES5 Webgui
+* Go to [(https://sapes5.sapdevcenter.com/sap/bc/gui/sap/its/webgui)] to open the ES5 Webgui
+ Sign in with user P2008276751 and password provided by your mentors.
+
 ![Sign In](../media/quest1/01-SignInDesigner.png)
 
 
