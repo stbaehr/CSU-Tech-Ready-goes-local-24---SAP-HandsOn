@@ -3,7 +3,7 @@
 **[🏠Home](../README.md)** - [ Quest 2 >](quest2.md)
 
 
-* We will start our journey by login on to SAP Netweaver Demo system ES5 and sneaking out some products using SAP Fiori. 
+* We start our journey by logging into the SAP Netweaver demo system ES5 and checking out some products with SAP Fiori. 
   
 
 * Open a browser in Incognito Mode
@@ -19,11 +19,8 @@
 ![Sign In](../media/quest1/02-LaunchFiori.png)
 
 
-* Enter a prompt like 
-```
-In cartoon style a group of people in a city like Hamburg learning all about SAP and AI
-```
-![Sign In](../media/quest1/03-EnterPrompt.png)
+* Select "Manage Products"
+![Sign In](../media/quest1/03-FioriManageProducts.png)
 
 * As a result you should see an image like this:
 ![Sign In](../media/quest1/04-GeneratedImage.png)
