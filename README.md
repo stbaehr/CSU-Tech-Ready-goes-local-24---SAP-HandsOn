@@ -15,9 +15,8 @@ Find us on-site in Munich. We are looking forward to meeting you in person! 🤝
 
 
 # Build your own ChatGPT and chat with SAP data
-## Pre-requisites
+## Challange user accounts
 
-Challange user accounts
 | User name	    | Password   |
 |---------------|------------|
 | user1@baehrshh.onmicrosoft.com	| Willkommen123  | 
