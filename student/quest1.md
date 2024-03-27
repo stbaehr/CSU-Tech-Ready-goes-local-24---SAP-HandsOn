@@ -22,33 +22,17 @@
 * Select "Manage Products"
 ![Sign In](../media/quest1/03-FioriManageProducts.png)
 
-* As a result you should see an image like this:
-![Sign In](../media/quest1/04-GeneratedImage.png)
+* Filter for "Speaker":
+![Sign In](../media/quest1/04-SearchSpeaker.png)
 
 
-Like with all prompting it is important to learn how to work with the AI and create the best results. 
-You can test out some ideas using the following links:
 
-- [Person in City](https://designer.microsoft.com/image-creator?p=A+business+[woman]+learning+all+about+SAP+and+AI+in+a+city+like+[Hamburg],+detailed+[pencil]+sketch.+The+image+should+be+reusable+for+the+icon+of+a+chatbot)
-- [Fruite Arrangements](https://designer.microsoft.com/image-creator?p=A+photorealistic+image+of+%5Bfruit%5D+arranged+to+look+like+the+shape+of+%5Ba+disney+castle%5D.+The+food+should+be+creativity+assembled+to+mimic+the+%5Bscene+from+the+disney+castle%5D.+The+image+should+be+colorful+and+appealing)
+* View product details be `clicking` on the ">" right hand site of the product
+![Sign In](../media/quest1/05-SelectProduct.png)
 
- 
-As you will notice, prompts often have adjectives and descriptions to make the generated image more explicit. Here are a few other ideas to improve your prompt: 
- 
-* **Other materials you might try**: "felt," "tapestry," "knitting," "embroidery," "papercraft," "origami," "pop-up books," "modelling clay," "porcelain," "ceramics," "terracotta," "metalwork," "jewelry," "crystal," "fiberglass"…even "butter."
 
-* **Other photography-related terms to play with**: "trail cam," "CCTV," "VHS," "Polaroid," "infrared photography," "daguerreotype," "cyanotype," "photo from [a favorite magazine or website]," "film still from [a favorite movie or TV show]," "color splash," "extreme close-up," "wide-angle lens," "telephoto lens," "light leaks," "Lomography," "autochrome," "camera phone," "camera obscura," "warm lighting," "long exposure," "fast shutter speed," "back lighting," "low-key lighting," "golden hour," "blue hour," "macro lens," "motion blur," "shallow depth-of-field," "action photography," "candid portrait."
 
-* **Other art styles to try**: "surrealism," "Dadaism," "metaphysical painting," "orphism," "cubism," "suprematism," "De Stijl," "futurism," "expressionism," "realism," "Bauhaus," "color field painting," "impressionism," "baroque," "rococo," "mannerism," "ancient Egyptian papyrus," "ancient Roman mosaic."
 
-* **Try these phrases for different digital styles**: "digital art," "vector graphics," "minimalist," "geometric," "isometric," "2.5D," "matte clay," "digital painting," "screenshot from [a favorite game or animation]," "diagram," "instruction manual."
-
-* **Try these words and phrases for different art styles**: "stencil art," "crayon," "chalk," "etching," "oil paintings," "ballpoint pen," "colored pencil," "Chinese watercolor," "pastels," "woodcut," "charcoal," "screen print," "photocollage," "storybook illustration," "newspaper cartoon," "vintage illustration from [decade]."
-
-From [How to use AI image prompts to generate art using DALL‑E](https://create.microsoft.com/en-us/learn/articles/how-to-image-prompts-dall-e-ai)
-
-* `Right click` on the image and save it to your laptop
-![Sign In](../media/quest1/05-SaveImage.png)
 
 * Since we want to use this image as an icon for our Chatbot in the next Quest, we need to resize it quite a bit. Since we don't want to install any other tools we will just use any Online resizing tool (feel free to use anything else). For this go to [ImageResizer](https://imageresizer.com/) and select the image that you just downloaded
 ![Sign In](../media/quest1/06-ImageResizer.png)
