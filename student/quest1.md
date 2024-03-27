@@ -3,14 +3,14 @@
 **[🏠Home](../README.md)** - [ Quest 2 >](quest2.md)
 
 
-* We will start our ChatBot and Generative AI journey by creating a few images. An easy way to get started are Microsoft Designer and Bing Image Creator, powered by DALL-E3. 
+* We will start our journey by login on to SAP Netweaver Demo system ES5 and sneaking out some products using SAP Fiori. 
+  
 
-Feel free to check out both and play around with creating some images.  
+* Open a browser in Incognito Mode
 
-* Go to [Microsoft Designer](https://designer.microsoft.com/image-creator) to open the Microsoft Designer
+* Go to [ES5 Webgui](https://sapes5.sapdevcenter.com/sap/bc/gui/sap/its/webgui) to open the ES5 Webgui
 ![Sign In](../media/quest1/01-SignInDesigner.png)
 
-* Alternatively or in addition you can also go to [Bing Image Creator](https://www.bing.com/images/create)
 
 
 
