@@ -1,4 +1,4 @@
- # Quest 1 - Leveraging GPT to create images
+ # Quest 1 - Get familiar with SAP Fiori UI
 
 **[🏠Home](../README.md)** - [ Quest 2 >](quest2.md)
 
