@@ -17,31 +17,31 @@ Find us on-site in Munich. We are looking forward to meeting you in person! 🤝
 # Build your own ChatGPT and chat with SAP data
 ## Challange user accounts
 
-| User name	    | Password   |
-|---------------|------------|
-| user1@baehrshh.onmicrosoft.com	| Willkommen123  | 
-| user2@baehrshh.onmicrosoft.com	| Willkommen123  |
-| user3@baehrshh.onmicrosoft.com	| Willkommen123  |
-| user4@baehrshh.onmicrosoft.com	| Willkommen123  |
-| user5@baehrshh.onmicrosoft.com	| Willkommen123  |
-| user6@baehrshh.onmicrosoft.com	| Willkommen123  |
-| user7@baehrshh.onmicrosoft.com	| Willkommen123  |
-| user8@baehrshh.onmicrosoft.com	| Willkommen123  |
-| user9@baehrshh.onmicrosoft.com	| Willkommen123  |
-| user10@baehrshh.onmicrosoft.com	| Willkommen123  |
-| user11@baehrshh.onmicrosoft.com	| Willkommen123  |
-| user12@baehrshh.onmicrosoft.com	| Willkommen123  |
-| user13@baehrshh.onmicrosoft.com	| Willkommen123  |
-| user14@baehrshh.onmicrosoft.com	| Willkommen123  |
-| user15@baehrshh.onmicrosoft.com	| Willkommen123  |
-| user16@baehrshh.onmicrosoft.com	| Willkommen123  |
-| user17@baehrshh.onmicrosoft.com	| Willkommen123  |
-| user18@baehrshh.onmicrosoft.com	| Willkommen123  |
-| user19@baehrshh.onmicrosoft.com	| Willkommen123  |
-| user20@baehrshh.onmicrosoft.com	| Willkommen123  |
-| user21@baehrshh.onmicrosoft.com	| Willkommen123  |
-| user22@baehrshh.onmicrosoft.com	| Willkommen123  |
-| user23@baehrshh.onmicrosoft.com	| Willkommen123  |
+| User name	    |
+|---------------|
+| user1@baehrshh.onmicrosoft.com	| 
+| user2@baehrshh.onmicrosoft.com	| 
+| user3@baehrshh.onmicrosoft.com	|
+| user4@baehrshh.onmicrosoft.com	| 
+| user5@baehrshh.onmicrosoft.com	| 
+| user6@baehrshh.onmicrosoft.com	|
+| user7@baehrshh.onmicrosoft.com	|
+| user8@baehrshh.onmicrosoft.com	|
+| user9@baehrshh.onmicrosoft.com	|
+| user10@baehrshh.onmicrosoft.com	|
+| user11@baehrshh.onmicrosoft.com	|
+| user12@baehrshh.onmicrosoft.com	|
+| user13@baehrshh.onmicrosoft.com	|
+| user14@baehrshh.onmicrosoft.com	|
+| user15@baehrshh.onmicrosoft.com	|
+| user16@baehrshh.onmicrosoft.com	| 
+| user17@baehrshh.onmicrosoft.com	| 
+| user18@baehrshh.onmicrosoft.com	| 
+| user19@baehrshh.onmicrosoft.com	| 
+| user20@baehrshh.onmicrosoft.com	| 
+| user21@baehrshh.onmicrosoft.com	| 
+| user22@baehrshh.onmicrosoft.com	| 
+| user23@baehrshh.onmicrosoft.com	| 
 
 
 ## 🧙🏾‍♀️Epic Quests
