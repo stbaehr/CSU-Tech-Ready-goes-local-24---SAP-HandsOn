@@ -15,10 +15,8 @@
  ![Sign In](../media/quest1/01-SignInES5.png)
 
 
-
-
-* `Sign in` With your Microsoft ID (e.g. outlook.com, hotmail.com, live.com)
-![Sign In](../media/quest1/02-OutlookUser.png)
+* Launch Fiori Launchpad
+![Sign In](../media/quest1/02-LaunchFiori.png)
 
 
 * Enter a prompt like 
