@@ -34,7 +34,7 @@ During this quest you will create a Copilot in Copilot Studio and connect to SAP
  ![Sign In](../media/quest3/6-MySAPCopilot.1.png)
 
 * Copilot will use information from the given website to answer
-* Copilot will give references where the information is coming from
+* Copilot will give references where the information is coming from              
  ![Sign In](../media/quest3/7-MySAPCopilot.2.png)
 
 * Select Settings
@@ -52,7 +52,7 @@ During this quest you will create a Copilot in Copilot Studio and connect to SAP
  ![Sign In](../media/quest3/11-MySAPCopilot-AddAnAction.png)
 
 
-* Select `Get started`
+* Select `Get started`                   
  ![Sign In](../media/quest3/12-PowerAutomateGetStarted.png)
 
 
@@ -64,7 +64,7 @@ During this quest you will create a Copilot in Copilot Studio and connect to SAP
  ![Sign In](../media/quest3/13-PowerAutomate-AddAnOutput.png)
 
 
-* Select `Text`
+* Select `Text`                      
  ![Sign In](../media/quest3/14-PowerAutomate-AddAnOutput-Text.png)
 
 
@@ -76,7 +76,7 @@ During this quest you will create a Copilot in Copilot Studio and connect to SAP
 
 * Search for `Variable`
 * Select `See more`
-* Select `Initialize Variable`
+* Select `Initialize Variable`                                       
  ![Sign In](../media/quest3/16-PowerAutomate-AddAnAction2.png)
 
 
