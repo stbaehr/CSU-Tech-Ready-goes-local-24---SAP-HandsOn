@@ -12,8 +12,7 @@ During this quest you will create a Copilot in Copilot Studio and connect to SAP
 * User: your Group User
 * Microsoft Authenticator registration might be needed
 
-* Use an environment located in the US!
-* and select `Get Started`
+* Use an environment located in the US!  - and select `Get Started`
 ![Sign In](../media/quest3/2-GetStarted.png)
 
 
@@ -24,11 +23,15 @@ During this quest you will create a Copilot in Copilot Studio and connect to SAP
 
 
 * Enter "Copliot Name" and an "external website" e.g. https://www.sap.com to crawl
-* Select "Create"
+* and select "Create"
 ![Sign In](../media/quest3/4-CreateCopilot.png)
 
 
+* Select "Skip"
+![Sign In](../media/quest3/5-NewFeatures.png)
 
+* Select "Ask a question e.g. `Tell me about SAP`"
+![Sign In](../media/quest3/6-MySAPCopilot.1.png)
 
 
 
