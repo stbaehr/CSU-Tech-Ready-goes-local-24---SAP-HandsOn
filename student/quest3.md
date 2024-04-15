@@ -39,21 +39,112 @@ During this quest you will create a Copilot in Copilot Studio and connect to SAP
 
 * Select Settings
 * Select Generative AI
-![Sign In](../media/quest4/08-SetResponseFromSAP.png)
+* Enable "Dynamic chaining with generative actions"
+* Click `Save`
+ ![Sign In](../media/quest3/9-MySAPCopilot-Settings.png)
+
+* Select "Actions"
+* `Add an action`
+ ![Sign In](../media/quest3/10-MySAPCopilot-Actions.png)
+
+
+* Scroll down and select "New Action" => "Create a new flow"
+ ![Sign In](../media/quest3/11-MySAPCopilot-AddAnAction.png)
+
+
+* Select `Get started`
+ ![Sign In](../media/quest3/12-PowerAutomateGetStarted.png)
+
+
+* Select `Respond to Copilot`
+ ![Sign In](../media/quest3/12-PowerAutomate-Run-a-flow-from-Copilot.png)
+
+
+* Select `Add an output`
+ ![Sign In](../media/quest3/13-PowerAutomate-AddAnOutput.png)
+
+
+* Select `Text`
+ ![Sign In](../media/quest3/14-PowerAutomate-AddAnOutput-Text.png)
+
+
+* Enter name `ReturntoCopilot`
+* Select `+` above `Respond to Copilot`
+* Select `Add an action`
+ ![Sign In](../media/quest3/15-PowerAutomate-AddAnAction.png)
+
+
+* Search for `Variable`
+* Select `See more`
+* Select `Initialize Variable`
+ ![Sign In](../media/quest3/16-PowerAutomate-AddAnAction2.png)
+
+
+* Provide a Name
+* Select Type `String`
+* Provide `Initial Value`
+* Select `Respond to Copilot`
+ ![Sign In](../media/quest3/17-PowerAutomate-Provide-a-Name.png)
+
+
+* Click into `Enter a value to respond with`
+* Click the `flash`
+ ![Sign In](../media/quest3/18-PowerAutomate-ValueToRespond.png)
+
+
+* Select your `ReturnVariable`
+ ![Sign In](../media/quest3/19-PowerAutomate-ReturnVariable.png)
+
+
+* Change the flow name and make it unique
+ ![Sign In](../media/quest3/20-PowerAutomate-AddAnOutput.png)
+
+
+* Click `Save draft`
+* Click `Publish`
+ ![Sign In](../media/quest3/21-PowerAutomate-Publish.png)
+
+
+* xxx
+ ![Sign In](../media/quest3/xxx)
+
+
+* xxx
+ ![Sign In](../media/quest3/xxx)
+
+
+* xxx
+ ![Sign In](../media/quest3/xxx)
+
+
+* xxx
+ ![Sign In](../media/quest3/xxx)
 
 
 
+ * xxx
+ ![Sign In](../media/quest3/xxx)
 
 
 
+ * xxx
+ ![Sign In](../media/quest3/xxx)
 
+
+
+ * xxx
+ ![Sign In](../media/quest3/xxx)
+
+
+ * xxx
+ ![Sign In](../media/quest3/xxx)
 
 
 
 
 
 * xxx
-* ![Sign In](../media/quest3/xxx)
+ ![Sign In](../media/quest3/xxx)
 
 
 
