@@ -25,15 +25,20 @@ During this quest you will create a Copilot in Copilot Studio and connect to SAP
 * Enter "Copliot Name" and an "external website" e.g. https://www.sap.com to crawl
 * and select "Create"
 ![Sign In](../media/quest3/4-CreateCopilot.png)
+* 
 
 
 * Select "Skip"
 ![Sign In](../media/quest3/5-NewFeatures.png)
 
-* Select "Ask a question e.g. `Tell me about SAP`"
+* 
+* Select "Ask your Copilot a question e.g. `Tell me about SAP`"
 ![Sign In](../media/quest3/6-MySAPCopilot.1.png)
+* 
 
-
+* Copilot will use information from the given website to answer
+* Copilot will give references where the information is coming from
+* ![Sign In](../media/quest3/7-MySAPCopilot.2.png)
 
 
 
