@@ -27,7 +27,7 @@ During this quest you will create a Copilot in Copilot Studio and connect to SAP
  ![Sign In](../media/quest3/4-CreateCopilot.png)
 
 
-* Select "Skip"
+* Select "Skip"                              
  ![Sign In](../media/quest3/5-NewFeatures.png)
 
 * Select "Ask your Copilot a question e.g. `Tell me about SAP`"
@@ -39,8 +39,7 @@ During this quest you will create a Copilot in Copilot Studio and connect to SAP
 
 * Select Settings
 * Select Generative AI
-
-![Sign In](../media/quest3/xxx)
+![Sign In](../media/quest4/08-SetResponseFromSAP.png)
 
 
 
