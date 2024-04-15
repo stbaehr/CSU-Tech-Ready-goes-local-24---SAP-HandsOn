@@ -19,14 +19,14 @@ Find us on-site in Munich. We are looking forward to meeting you in person! 🤝
 
 | User name	    | User name	    | User name	    |
 |---------------|---------------|---------------|
-| user1@baehrshh.onmicrosoft.com	| user9@baehrshh.onmicrosoft.com	| user17@baehrshh.onmicrosoft.com	| 
-| user2@baehrshh.onmicrosoft.com	| user10@baehrshh.onmicrosoft.com	| user18@baehrshh.onmicrosoft.com	| 
-| user3@baehrshh.onmicrosoft.com	| user11@baehrshh.onmicrosoft.com	| user19@baehrshh.onmicrosoft.com	| 
-| user4@baehrshh.onmicrosoft.com	| user12@baehrshh.onmicrosoft.com	| user20@baehrshh.onmicrosoft.com	| 
-| user5@baehrshh.onmicrosoft.com	| user13@baehrshh.onmicrosoft.com	| user21@baehrshh.onmicrosoft.com	| 
-| user6@baehrshh.onmicrosoft.com	| user14@baehrshh.onmicrosoft.com	| user22@baehrshh.onmicrosoft.com	| 
-| user7@baehrshh.onmicrosoft.com	| user15@baehrshh.onmicrosoft.com	| user23@baehrshh.onmicrosoft.com	| 
-| user8@baehrshh.onmicrosoft.com	| user16@baehrshh.onmicrosoft.com	| user24@baehrshh.onmicrosoft.com   |
+| user1@MngEnvMCAP602495.onmicrosoft.com	| user9@MngEnvMCAP602495.onmicrosoft.com	| user17@MngEnvMCAP602495.onmicrosoft.com	| 
+| user2@MngEnvMCAP602495.onmicrosoft.com	| user10@MngEnvMCAP602495.onmicrosoft.com	| user18@MngEnvMCAP602495.onmicrosoft.com	| 
+| user3@MngEnvMCAP602495.onmicrosoft.com	| user11@MngEnvMCAP602495.onmicrosoft.com	| user19@MngEnvMCAP602495.onmicrosoft.com	| 
+| user4@MngEnvMCAP602495.onmicrosoft.com	| user12@MngEnvMCAP602495.onmicrosoft.com	| user20@MngEnvMCAP602495.onmicrosoft.com	| 
+| user5@MngEnvMCAP602495.onmicrosoft.com	| user13@MngEnvMCAP602495.onmicrosoft.com	| user21@MngEnvMCAP602495.onmicrosoft.com	| 
+| user6@MngEnvMCAP602495.onmicrosoft.com	| user14@MngEnvMCAP602495.onmicrosoft.com	| user22@MngEnvMCAP602495.onmicrosoft.com	| 
+| user7@MngEnvMCAP602495.onmicrosoft.com	| user15@MngEnvMCAP602495.onmicrosoft.com	| user23@MngEnvMCAP602495.onmicrosoft.com	| 
+| user8@MngEnvMCAP602495.onmicrosoft.com	| user16@MngEnvMCAP602495.onmicrosoft.com	| user24@MngEnvMCAP602495.onmicrosoft.com   |
 
 
 ## 🧙🏾‍♀️Epic Quests

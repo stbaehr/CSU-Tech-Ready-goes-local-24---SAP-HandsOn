@@ -1,12 +1,12 @@
-# Quest 3 - Upload your own data
+# Quest 3 - Use Copilot Studio and create a Power Automate Flow7u
 
 [ < Quest 2 ](quest2.md) - **[ Quest 4 > ](quest4.md)**
 
-Upload your own data
-In addition to leveraging Public websites, Copilot Studio can also access documents in private SharePoint libraries, or documents that have been uploaded before. 
+Use Copilot Studio and create a Power Automate Flow
+During this quest you will create a Copilot in Copilot Studio and connect to SAP system ES5 via Power Automate Flow. 
 
-* Navigate to `Generate AI` and click `click to browse`
-![Sign In](../media/quest3/01-GenerativeAI.png)
+* Open `Incognito Tab` in your Browser
+![Sign In](../media/quest3/1-Incognito.png)
 
 Examples can be found here:
 - https://www.sap.com/investors/en/reports.html?sort=latest_desc&tab=reports#reports
