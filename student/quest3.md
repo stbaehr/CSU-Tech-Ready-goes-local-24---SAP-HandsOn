@@ -16,7 +16,7 @@ Examples can be found here:
 
 
 * Upload a private document in Txt or PDF format with Drag&Drop
- ![Sign In](../media/quest3/2-GetStarted.png)
+![Sign In](../media/quest3/2-GetStarted.png)
 
 * Repeate the same for additional documents
 ![Sign In](../media/quest3/03-UploadMoreDocuments.png)
