@@ -13,12 +13,15 @@ During this quest you will create a Copilot in Copilot Studio and connect to SAP
 * Microsoft Authenticator registration might be needed
 
 * Use an environment located in the US!
+* and select `Get Started`
 ![Sign In](../media/quest3/2-GetStarted.png)
-* Select `Get Started`
+
 
 
 * Select `Done`
 ![Sign In](../media/quest3/3-PowerVirtualAgent-is-now-MicrosoftCopilotStudio.png)
+
+
 
 * Enter "Copliot Name" and an "external website" e.g. https://www.sap.com to crawl
 * Select "Create"
