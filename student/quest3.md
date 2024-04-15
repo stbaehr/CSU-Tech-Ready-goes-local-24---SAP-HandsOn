@@ -8,18 +8,41 @@ During this quest you will create a Copilot in Copilot Studio and connect to SAP
 * Open `Incognito Tab` in your Browser
 ![Sign In](../media/quest3/1-Incognito.png)
 
-Examples can be found here:
-- https://www.sap.com/investors/en/reports.html?sort=latest_desc&tab=reports#reports
-- https://www.microsoft.com/en-us/Investor/annual-reports.aspx
+* Open https://copilotstudio.microsoft.com/
+* User: your Group User
+* Microsoft Authenticator registration might be needed
 
-
-
-
-* Upload a private document in Txt or PDF format with Drag&Drop
+* Use an environment located in the US!
 ![Sign In](../media/quest3/2-GetStarted.png)
+* Select `Get Started`
 
-* Repeate the same for additional documents
-![Sign In](../media/quest3/03-UploadMoreDocuments.png)
+
+* Select `Done`
+![Sign In](../media/quest3/3-PowerVirtualAgent-is-now-MicrosoftCopilotStudio.png)
+
+* Enter "Copliot Name" and an "external website" e.g. https://www.sap.com to crawl
+* Select "Create"
+![Sign In](../media/quest3/4-CreateCopilot.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 * Once you have uploaded several documents, restart the conversation and ask the bot some related questions 
 > [!NOTE]
