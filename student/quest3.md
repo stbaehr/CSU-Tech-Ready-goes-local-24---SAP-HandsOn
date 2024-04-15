@@ -1,4 +1,4 @@
-# Quest 3 - Use Copilot Studio and create a Power Automate Flow7u
+# Quest 3 - Use Copilot Studio and create a Power Automate Flow
 
 [ < Quest 2 ](quest2.md) - **[ Quest 4 > ](quest4.md)**
 
@@ -16,7 +16,7 @@ Examples can be found here:
 > It can take up to 15 minutes until the documents are indexed. 
 
 * Upload a private document in Txt or PDF format with Drag&Drop
- ![Sign In](../media/quest3/02-UploadDocuments.png)
+ ![Sign In](..\media\quest3\2-GetStarted.png)
 
 * Repeate the same for additional documents
 ![Sign In](../media/quest3/03-UploadMoreDocuments.png)
