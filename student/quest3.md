@@ -6,14 +6,14 @@ Use Copilot Studio and create a Power Automate Flow
 During this quest you will create a Copilot in Copilot Studio and connect to SAP system ES5 via Power Automate Flow. 
 
 * Open `Incognito Tab` in your Browser
-![Sign In](../media/quest3/1-Incognito.png)
+ ![Sign In](../media/quest3/1-Incognito.png)
 
 * Open https://copilotstudio.microsoft.com/
 * User: your Group User
 * Microsoft Authenticator registration might be needed
 
 * Use an environment located in the US!  - and select `Get Started`
-![Sign In](../media/quest3/2-GetStarted.png)
+ ![Sign In](../media/quest3/2-GetStarted.png)
 
 
 
@@ -24,24 +24,37 @@ During this quest you will create a Copilot in Copilot Studio and connect to SAP
 
 * Enter "Copliot Name" and an "external website" e.g. https://www.sap.com to crawl
 * and select "Create"
-![Sign In](../media/quest3/4-CreateCopilot.png)
-* 
+ ![Sign In](../media/quest3/4-CreateCopilot.png)
 
 
 * Select "Skip"
-![Sign In](../media/quest3/5-NewFeatures.png)
+ ![Sign In](../media/quest3/5-NewFeatures.png)
 
-* 
 * Select "Ask your Copilot a question e.g. `Tell me about SAP`"
-![Sign In](../media/quest3/6-MySAPCopilot.1.png)
-* 
+ ![Sign In](../media/quest3/6-MySAPCopilot.1.png)
 
 * Copilot will use information from the given website to answer
 * Copilot will give references where the information is coming from
-* ![Sign In](../media/quest3/7-MySAPCopilot.2.png)
+ ![Sign In](../media/quest3/7-MySAPCopilot.2.png)
+
+* Select Settings
+* Select Generative AI
+
+![Sign In](../media/quest3/xxx)
 
 
 
+
+
+
+
+
+
+
+
+
+* xxx
+* ![Sign In](../media/quest3/xxx)
 
 
 
