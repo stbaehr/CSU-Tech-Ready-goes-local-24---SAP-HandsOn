@@ -48,25 +48,25 @@ Our journey will start from ...
 ## [Quest 1](student/quest1.md) - Get familiar with SAP Fiori UI
 
 🌟
-🕒 15 min
+🕒 5 min
 >Logon to public SAP system and browse products.
 
 ## [Quest 2](student/quest2.md) - Create a new product in SAP 
 
 🌟🌟
-🕒 25 mins
+🕒 10 mins
 >Use given Power App to create a product in SAP and check the result.
 
 ## [Quest 3](student/quest3.md) - Use Copilot Studio and create a Power Automate Flow
 
 🌟🌟🌟
-🕒 30 min
+🕒 40 min
 >Use Copilot Studio and create a Power Automate Flow.
 
 ## [Quest 4](student/quest4.md) - Chat with you SAP data
 
 🌟
-🕒 30 mins
+🕒 5 mins
 >Find out what the Chatbot can tell you about your product
 
 😎

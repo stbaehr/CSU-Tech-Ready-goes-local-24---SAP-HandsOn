@@ -191,51 +191,11 @@ During this quest you will create a Copilot in Copilot Studio and connect to SAP
 
 
 
-* Switch back to "Copilot" tab
-* Query a dedicated product HT-1000 `show me sap product information from SAP for product HT-1000`
-* Query you product ID you created in Quest 2 `show me sap product information from SAP for product <your product ID>`
- ![Sign In](../media/quest3/33-Copilot-SAPProductOutput.png) <br>
+ [!NOTE]
+> Note: Your SAP Product Copilot and Power Automate Flow are configured and you go on to Quest 4 
 
 
 
-* xxx
- ![Sign In](../media/quest3/xxx) <br>
-
-
-
-* xxx
- ![Sign In](../media/quest3/xxx) <br>
-
-
-
-
-
-* xxx
- ![Sign In](../media/quest3/xxx) <br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-* Once you have uploaded several documents, restart the conversation and ask the bot some related questions 
-> [!NOTE]
-> Even if the document has been uploaded in English, you can still ask it with different languages
-![Sign In](../media/quest3/04-ChatWithYourData.png)
-e.g. `Wie war das Quartalsergebnis von SAP?` oder
-"vergleiche das Quartalsergebnis von SAP mit Microsoft" und 
-"wie war der Cloud Umsatz von SAP?"
-![Sign In](../media/quest3/05-MoreChats.png)
-
-
-* Feel free to publish the Chatbot following the steps in the previous quest
 
 
 ## Where to next?
