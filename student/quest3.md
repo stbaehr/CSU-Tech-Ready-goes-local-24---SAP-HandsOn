@@ -118,7 +118,7 @@ During this quest you will create a Copilot in Copilot Studio and connect to SAP
 
 * Edit Action Details
 * Edit the Model Description: `This flow returns product information from the SAP system`
-* Select "Back"
+* Select `Back`
  ![Sign In](../media/quest3/25-Copilot-ConnectionDetails-2.png)
 
 
@@ -135,18 +135,18 @@ During this quest you will create a Copilot in Copilot Studio and connect to SAP
 
 
  * Test our CoPilot again `show me product information from SAP`
- * This time we receive information from Power Automate Flow
+ * This time we receive information from Power Automate Flow                 
  ![Sign In](../media/quest3/27-Copilot-TestYourCopilot.png)
 
 
  * Switch back to the Power Automate Flow tab
- * Click on `Run a flow from Copilot`
+ * Click on `Run a flow from Copilot`                            
   ![Sign In](../media/quest3/27a-AutomateFlow-Input1.png)
 
 
  * Select `+ Add an input`
  * Select `Text`
- * Write `ProductID` as Input
+ * Write `ProductID` as Input                                
  ![Sign In](../media/quest3/27c-AutomateFlow-Input3.png)
 
 
@@ -165,7 +165,7 @@ During this quest you will create a Copilot in Copilot Studio and connect to SAP
 
 
 
- * Select `ProductID` from drop down menu
+ * Select `ProductID` from drop down menu                        
   ![Sign In](../media/quest3/30b-AutomateFlow-odata-ProductID.png)
 
 
@@ -175,7 +175,7 @@ During this quest you will create a Copilot in Copilot Studio and connect to SAP
  * Authentication Type: `Basic`
  * User: `P********`
  * PW: `************`
- * Click `Safe draft`
+ * Click `Safe draft`                            
   ![Sign In](../media/quest3/30c-SAP-odata-connection.png)
 
 
