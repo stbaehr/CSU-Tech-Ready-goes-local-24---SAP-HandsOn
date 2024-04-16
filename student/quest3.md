@@ -105,30 +105,78 @@ During this quest you will create a Copilot in Copilot Studio and connect to SAP
  ![Sign In](../media/quest3/21-PowerAutomate-Publish.png)
 
 
-* xxx
- ![Sign In](../media/quest3/xxx)
+* Switch back to Copilot Studio
+* Refresh the available actions
+ ![Sign In](../media/quest3/22-BackToCopilot.png)
 
 
-* xxx
- ![Sign In](../media/quest3/xxx)
+* Scroll down the list of actions and select your flow
+ ![Sign In](../media/quest3/23-Copilot-SelectYourFlow.png)
+
+* Select `Next`
 
 
-* xxx
- ![Sign In](../media/quest3/xxx)
+* Edit Action Details
+* Edit the Model Description: `This flow returns product information from the SAP system`
+* Select "Back"
+ ![Sign In](../media/quest3/25-Copilot-ConnectionDetails-2.png)
 
 
-* xxx
- ![Sign In](../media/quest3/xxx)
+* Scroll down to `Outputs` and select `Edit`
+* Select `Add`
+* Select our `ReturntoCopilot` output variable
+* Click `Save`
+* Click `Finish`
+ ![Sign In](../media/quest3/26a-Copilot-Output.png)
+
+
+ * Click your action `Run a flow from Copilot - TechReady`
+ ![Sign In](../media/quest3/26b-Copilot-Action.png)
+
+
+ * Test our CoPilot again `show me product information from SAP`
+ * This time we receive information from Power Automate Flow
+ ![Sign In](../media/quest3/27-Copilot-TestYourCopilot.png)
+
+
+ * Switch back to the Power Automate Flow tab
+ * Click on `Run a flow from Copilot`
+  ![Sign In](../media/quest3/27a-AutomateFlow-Input1.png)
+
+
+ * Select `+ Add an input`
+ * Select `Text`
+ * Write `ProductID` as Input
+ ![Sign In](../media/quest3/27c-AutomateFlow-Input3.png)
+
+
+ * Select the "+" above `Initialize variable` and select `Add an action`
+ ![Sign In](../media/quest3/28-AutomateFlow-AddAnAction2.png)
 
 
 
- * xxx
- ![Sign In](../media/quest3/xxx)
+ * Search for the `odata` connector, scroll down the list and select the `Read OData entity` connector
+  ![Sign In](../media/quest3/29-AutomateFlow-odata-Connector.png)
+
+
+ * Select Odata Entity Name `ProductSet` from drop down menu
+ * Click into `ProductID` field and select the `flash` 
+  ![Sign In](../media/quest3/30-AutomateFlow-odata-Parameter.png)
 
 
 
- * xxx
- ![Sign In](../media/quest3/xxx)
+ * Select `ProductID` from drop down menu
+  ![Sign In](../media/quest3/30b-AutomateFlow-odata-ProductID.png)
+
+
+
+ * Fill the fields
+ * URI: `https://sapes5.sapdevcenter.com/sap/opu/odata/iwbep/GWSAMPLE_BASIC`
+ * Authentication Type: `Basic`
+ * User: `P********`
+ * PW: `************`
+ * Click `Safe draft`
+  ![Sign In](../media/quest3/30c-SAP-odata-connection.png)
 
 
 
