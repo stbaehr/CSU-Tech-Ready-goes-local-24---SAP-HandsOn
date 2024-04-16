@@ -180,8 +180,9 @@ During this quest you will create a Copilot in Copilot Studio and connect to SAP
 
 
 
- * xxx
- ![Sign In](../media/quest3/xxx) <br>
+ * Select "Initialize variable"
+ *  Click into the Value field, delete the text in the field and select the `flash`
+   ![Sign In](../media/quest3/xxx) <br>
 
 
  * xxx
