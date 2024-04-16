@@ -8,18 +8,10 @@ As your SAP Product Copilot and Power Automate Flow are configured and you can c
 * Switch back to "Copilot" tab
 * Query a dedicated product HT-1000 `show me sap product information from SAP for product HT-1000`
 * Query you product ID you created in Quest 2 `show me sap product information from SAP for product <your product ID>`
- ![Sign In](../media/quest3/33-Copilot-SAPProductOutput.png) <br>
+ ![Sign In](../media/quest4/33-Copilot-SAPProductOutput.png) <br>
 
 * xxx
- ![Sign In](../media/quest3/xxx) <br>
-
-* xxx
- ![Sign In](../media/quest3/xxx) <br>
-
-
-* xxx
- ![Sign In](../media/quest3/xxx) <br>
-
+ ![Sign In](../media/quest4/xxx) <br>
 
 
 
