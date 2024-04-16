@@ -171,10 +171,10 @@ During this quest you will create a Copilot in Copilot Studio and connect to SAP
  <br>
 
  * Fill the fields
-        URI: `https://sapes5.sapdevcenter.com/sap/opu/odata/iwbep/GWSAMPLE_BASIC`
-        Authentication Type: `Basic`
-        User: `P********`
-        PW: `************`
+        URI: `https://sapes5.sapdevcenter.com/sap/opu/odata/iwbep/GWSAMPLE_BASIC` <br>
+        Authentication Type: `Basic` <br>
+        User: `P********` <br>
+        PW: `************` <br>
  * Click `Safe draft`                            
   ![Sign In](../media/quest3/30c-SAP-odata-connection.png)
 
