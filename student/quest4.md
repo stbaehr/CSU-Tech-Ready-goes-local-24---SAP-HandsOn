@@ -15,13 +15,6 @@ As your SAP Product Copilot and Power Automate Flow are configured and you can c
 
 
 
-
-* Test the bot on the demo site
-   ![Disable Boosting](../media/quest4/17-DemoWebsite.png)
-
-> [!TIP]
->🏆Finish the final quest and send [us](mailto:holger.bruchelt@microsoft.com) a link to your bot to claim [your badge](https://webhostingforconverter.z16.web.core.windows.net/claim-reward-chatgpt.html) 😎 May the ninja-cat be with you.
-
 ## Where to next?
 
 [ < Quest 3 ](quest3.md) - **[🏠Home](../README.md)**
