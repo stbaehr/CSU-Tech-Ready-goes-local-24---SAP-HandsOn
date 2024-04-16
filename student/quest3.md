@@ -168,13 +168,13 @@ During this quest you will create a Copilot in Copilot Studio and connect to SAP
  * Select `ProductID` from drop down menu                        
   ![Sign In](../media/quest3/30b-AutomateFlow-odata-ProductID.png)
 
-
+ <br>
 
  * Fill the fields
- * URI: `https://sapes5.sapdevcenter.com/sap/opu/odata/iwbep/GWSAMPLE_BASIC`
- * Authentication Type: `Basic`
- * User: `P********`
- * PW: `************`
+        URI: `https://sapes5.sapdevcenter.com/sap/opu/odata/iwbep/GWSAMPLE_BASIC`
+        Authentication Type: `Basic`
+        User: `P********`
+        PW: `************`
  * Click `Safe draft`                            
   ![Sign In](../media/quest3/30c-SAP-odata-connection.png)
 
