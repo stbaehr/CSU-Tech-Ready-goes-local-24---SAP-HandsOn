@@ -191,8 +191,10 @@ During this quest you will create a Copilot in Copilot Studio and connect to SAP
 
 
 
-* xxx
- ![Sign In](../media/quest3/xxx) <br>
+* Switch back to "Copilot" tab
+* Query a dedicated product HT-1000 "show me sap product information from SAP for product HT-1000"
+* Query you product ID you created in quest 2 "show me sap product information from SAP for product <your product ID>"
+ ![Sign In](../media/quest3/33-Copilot-SAPProductOutput.png) <br>
 
 
 
