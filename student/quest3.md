@@ -12,7 +12,7 @@ During this quest you will create a Copilot in Copilot Studio and connect to SAP
 
  
  * xxx
- ![Sign In](../xxx) <br>
+ ![Sign In](../media/quest3/b-add-a-website.png) <br>
 
  * xxx
  ![Sign In](../xxx) <br>
