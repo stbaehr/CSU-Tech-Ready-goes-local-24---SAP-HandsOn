@@ -10,20 +10,7 @@ During this quest you will create a Copilot in Copilot Studio and connect to SAP
 * Change the environment and select "SAP PPM Team Pre-Prod" environment!
  ![Sign In](../media/quest3/a-change_environment.png) <br>
 
- 
- * xxx
- ![Sign In](../media/quest3/b-add-a-website.png) <br>
-
- * xxx
- ![Sign In](../xxx) <br>
-
-  * xxx
- ![Sign In](../xxx) <br>
-
-  * xxx
- ![Sign In](../xxx) <br>
-
-
+  
 * Enter "Copliot Name" and an "external website" e.g. https://www.sap.com to crawl
 * and select "Create"
  ![Sign In](../media/quest3/4-CreateCopilot.png) <br>
