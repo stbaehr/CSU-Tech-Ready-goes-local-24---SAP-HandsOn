@@ -19,7 +19,7 @@ During this quest you will create a Copilot in Copilot Studio and connect to SAP
 * Select "Skip"                              
  ![Sign In](../media/quest3/5-NewFeatures.png) <br>
 
-* Select "Ask your Copilot a question e.g. `Tell me about SAP`"
+* Select "Ask your Copilot a question e.g. `Tell me about SAP`"      
  ![Sign In](../media/quest3/6-MySAPCopilot.new-1.png) <br>
 
 > [NOTE]
