@@ -7,16 +7,8 @@ During this quest you will create a Copilot in Copilot Studio and connect to SAP
 
 
 * Open https://copilotstudio.microsoft.com/ and logon with your @microsoft.com account
-
-
-* Use an environment located in the US!  - and select `Get Started`
- ![Sign In](../media/quest3/2-GetStarted.png) <br>
-
-
-
-* Select `Done`
-![Sign In](../media/quest3/3-PowerVirtualAgent-is-now-MicrosoftCopilotStudio.png) <br>
-
+* Change the environment and select "SAP PPM Team Pre-Prod" environment
+ ![Sign In](../media/quest3/a-change_environment.png) <br>
 
 
 * Enter "Copliot Name" and an "external website" e.g. https://www.sap.com to crawl
