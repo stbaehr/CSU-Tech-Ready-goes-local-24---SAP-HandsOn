@@ -5,12 +5,9 @@
 Use Copilot Studio and create a Power Automate Flow
 During this quest you will create a Copilot in Copilot Studio and connect to SAP system ES5 via Power Automate Flow. 
 
-[Comment]:* Open `Incognito Tab` in your Browser                           
-[Comment]: ![Sign In](../media/quest3/1-Incognito.png)  <br>
-[Comment]:
-* Open https://copilotstudio.microsoft.com/
-[Comment]: User: your Group User
-[Comment]: Microsoft Authenticator registration might be needed
+
+* Open https://copilotstudio.microsoft.com/ and logon with your @microsoft.com account
+
 
 * Use an environment located in the US!  - and select `Get Started`
  ![Sign In](../media/quest3/2-GetStarted.png) <br>
