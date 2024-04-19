@@ -7,7 +7,7 @@ During this quest you will create a Copilot in Copilot Studio and connect to SAP
 
 
 * Open https://copilotstudio.microsoft.com/ and logon with your @microsoft.com account
-* Change the environment and select "SAP PPM Team Pre-Prod" environment
+* Change the environment and select "SAP PPM Team Pre-Prod" environment!
  ![Sign In](../media/quest3/a-change_environment.png) <br>
 
 
