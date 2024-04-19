@@ -22,9 +22,11 @@ During this quest you will create a Copilot in Copilot Studio and connect to SAP
 * Select "Ask your Copilot a question e.g. `Tell me about SAP`"
  ![Sign In](../media/quest3/6-MySAPCopilot.new-1.png) <br>
 
-[NOTE]
-* Copilot does not have the required information
-* In our restricted environment we do not have the option to "Add a website"
+> [NOTE]
+> Copilot does not have the required information
+> In our restricted environment we do not have the option to "Add a website"
+> In an unrestricted environment you would have the option! <br>
+ <br>
 
 * Select Settings
 * Select Generative AI
