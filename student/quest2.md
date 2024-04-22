@@ -13,8 +13,8 @@ With this first experience in SAP Fiori, we would likec to create a new product 
 * Click `Refresh`  <br>
  ![Sign In](../media/quest2/2-refresh.png) <br>
 
-* xxx  <br>
- ![Sign In](../xxx) <br>
+* Click the `>` behind any existzing product  <br>
+ ![Sign In](../media/quest2/3-refresh-new.png) <br>
 
 
 * xxx  <br>
@@ -28,6 +28,17 @@ With this first experience in SAP Fiori, we would likec to create a new product 
 * xxx  <br>
  ![Sign In](../xxx) <br>
 
+
+* xxx  <br>
+ ![Sign In](../xxx) <br>
+ 
+
+* xxx  <br>
+ ![Sign In](../xxx) <br>
+ 
+
+* xxx  <br>
+ ![Sign In](../xxx) <br>
 
 
 
