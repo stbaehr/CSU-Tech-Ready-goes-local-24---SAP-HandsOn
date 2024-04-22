@@ -161,7 +161,7 @@ During this quest you will create a Copilot in Copilot Studio and connect to SAP
       Odata Base URI: `https://sapes5.sapdevcenter.com/sap/opu/odata/iwbep/GWSAMPLE_BASIC` <br>
       User: Pxxxxxxxxxx <br>
       PW: xxxxxx <br>
- * Select `Create New`
+ * Select `Create New` <br>
    ![Sign In](../media/quest3/29b-Create-Connection.png) <br>
 
 
