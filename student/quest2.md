@@ -23,27 +23,9 @@ With this first experience in SAP Fiori, we would likec to create a new product 
  ![Sign In](../media/quest2/4-update-price.png) <br>
 
 
-* xxx  <br>
- ![Sign In](../xxx) <br>
-
-
-* xxx  <br>
- ![Sign In](../xxx) <br>
-
-
-* xxx  <br>
- ![Sign In](../xxx) <br>
- 
-
-* xxx  <br>
- ![Sign In](../xxx) <br>
- 
-
-* xxx  <br>
- ![Sign In](../xxx) <br>
-
-
-
+ [!NOTE]
+> Note: You updated the SAP product with an Power App and you can go on to Quest 3  <br>
+ <br>
 
 
 
