@@ -162,7 +162,7 @@ During this quest you will create a Copilot in Copilot Studio and connect to SAP
       User: Pxxxxxxxxxx <br>
       PW: xxxxxx <br>
  * Select `Create New` <br>
-   ![Sign In](../media/quest3/29b-Create-Connection.png) <br>
+   ![Sign In](../media/quest3/29c-Create-Connection.png) <br>
 
 
 
