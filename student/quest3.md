@@ -20,6 +20,8 @@ During this quest you will create a Copilot in Copilot Studio and connect to SAP
 * Select `Done`
  ![Sign In](../media/quest3/3-PowerVirtualAgent-is-now-MicrosoftCopilotStudio.png) <br>
 
+* Select `Create a custom copilot`
+ ![Sign In](../media/quest3/3c-create-a-custom-coplilot.png) <br>
 
 * Enter "Copliot Name" and an "external website" e.g. https://www.sap.com to crawl
 * and select "Create"
