@@ -12,6 +12,9 @@ During this quest you will create a Copilot in Copilot Studio and connect to SAP
 
 * Open https://copilotstudio.microsoft.com/
 * User: your Group User
+* If appears - close `Contact Information` screen with the `X`
+ ![Sign In](../media/quest3/0-Contact-Info.png) <br>
+
 * Use an environment located in the US!
  ![Sign In](../media/quest3/2-GetStarted.png) <br>
 
