@@ -18,8 +18,9 @@ With this first experience in SAP Fiori, we would likec to create a new product 
  ![Sign In](../media/quest2/3-refresh-new.png) <br>
 <br>
 
-* Select `Create New`  <br>
- ![Sign In](../media/quest2/4-create-new.png) <br>
+* Update the price
+* Select `Save Updates`  <br>
+ ![Sign In](../media/quest2/4-update-price.png) <br>
 
 
 * xxx  <br>
