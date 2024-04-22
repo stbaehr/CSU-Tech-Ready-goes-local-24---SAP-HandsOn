@@ -10,9 +10,10 @@ Find us on-site in Munich. We are looking forward to meeting you in person! 🤝
 
 | Name             | Company  |
 | ---------------- | -------- |
-| [Sebastian Ullrich](https://www.linkedin.com/in/sebastian-ullrich-677b36168/)  | Microsoft |
 | [Stephan Bähr](https://www.linkedin.com/in/stephan-b%C3%A4hr-53b9a8116/)    | Microsoft |
-
+| [Martin Pankraz](https://www.linkedin.com/in/martin-pankraz/)  | Microsoft |
+| [Martin Raepple](https://www.linkedin.com/in/martinraepple/)    | Microsoft |
+| [Sebastian Ullrich](https://www.linkedin.com/in/sebastian-ullrich-677b36168/)  | Microsoft |
 
 # Build your own ChatGPT and chat with SAP data
 ## Challange user accounts
