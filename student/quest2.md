@@ -15,6 +15,15 @@ With this first experience in SAP Fiori, we would likec to create a new product 
 * Click `Refresh`  <br>
  ![Sign In](../media/quest2/2-refresh.png) <br>
 
+* xxx  <br>
+ ![Sign In](../media/quest2/2b-sign-in.png) <br>
+
+* xxx  <br>
+ ![Sign In](../media/quest2/2c-credentials.png) <br>
+
+ * xxx  <br>
+ ![Sign In](../media/quest2/2d-Allow.png) <br>
+
 * Search for product HT-1092, you already checked in `Quest 1`
 * Click the `>` behind product HT-1092  <br>
  ![Sign In](../media/quest2/3-refresh-new.png) <br>
