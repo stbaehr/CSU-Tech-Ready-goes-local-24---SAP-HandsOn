@@ -195,7 +195,7 @@ During this quest you will create a Copilot in Copilot Studio and connect to SAP
  <br> 
 
  [!NOTE]
-> Note: Your SAP Product Copilot and Power Automate Flow are configured and you go on to Quest 4 
+> Note: Your SAP Product Copilot and Power Automate Flow are configured and you can go on to Quest 4 
 
 
 
