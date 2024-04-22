@@ -190,7 +190,7 @@ During this quest you will create a Copilot in Copilot Studio and connect to SAP
  ![Sign In](../media/quest3/32-AutomateFlow-ReturnInfo2.png) <br>
 
   * Click `Safe draft`                            
-  * Click `Publish`
+  * Click `Publish` => takes some secondes to publish!!!
   * Select the "<-" to `Go back to previous page`<br>
  <br> 
 
