@@ -42,7 +42,7 @@ During this quest you will create a Copilot in Copilot Studio and connect to SAP
 * Select Generative AI
 * Enable "Dynamic chaining with generative actions"
 * Click `Save`
- ![Sign In](../media/quest3/9-MySAPCopilot-Settings.png) <br>
+ ![Sign In](../media/quest3/9b-MySAPCopilot-Settings.png) <br>
 
 * Select "Actions"
 * `Add an action`
