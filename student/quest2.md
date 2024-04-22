@@ -1,23 +1,34 @@
-# Quest 2 - Create a first ChatBot
+# Quest 2 - Create a new product in SAP
 
 [ < Quest 1 ](quest1.md) - **[ Quest 3 > ](quest3.md)**
 
-With this first experience, of what is possible with GPT, lets create a first chatbot that allows you to interact with a public webpage
+With this first experience in SAP Fiori, we would likec to create a new product in SAP. To simplify the process we created a Power App for this task.
 
-* Open the [Microsoft Copilot Studio](https://copilotstudio.microsoft.com/) and log in with your Microsoft Work or School account (**not** @outlook.com, @live.com). 
+* Open [Microsoft Power Apps](https://make.preview.powerapps.com/) and log in with your "Group User"). 
 > [!NOTE]
-> If you do not have a Microsoft Work or School account yet, sign-up for the [M365 Developer Program](https://developer.microsoft.com/en-us/microsoft-365/dev-program)
-> For the DSAGTechXChange Hands on, we will provide a username to you
 
-* xxx
- ![Sign In](../media/quest2/xxx) <br>
-
-
-* xxx
- ![Sign In](../media/quest2/xxx) <br>
+* Select `Apps` 
+* Select `Update Product Data ES5` <br>
+ ![Sign In](../media/quest2/1-select-app.png) <br>
 
 
+* xxx  <br>
+ ![Sign In](../xxx) <br>
 
+* xxx  <br>
+ ![Sign In](../xxx) <br>
+
+
+* xxx  <br>
+ ![Sign In](../xxx) <br>
+
+
+* xxx  <br>
+ ![Sign In](../xxx) <br>
+
+
+* xxx  <br>
+ ![Sign In](../xxx) <br>
 
 
 
