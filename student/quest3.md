@@ -176,16 +176,9 @@ During this quest you will create a Copilot in Copilot Studio and connect to SAP
   ![Sign In](../media/quest3/30b-AutomateFlow-odata-ProductID.png) <br>
 
  <br>
-
- * Fill the fields <br>
-        URI: `https://sapes5.sapdevcenter.com/sap/opu/odata/iwbep/GWSAMPLE_BASIC` <br>
-        Authentication Type: `Basic` <br>
-        User: `P********` <br>
-        PW: `************` <br>
+ 
  * Click `Safe draft`                            
-  ![Sign In](../media/quest3/30c-SAP-odata-connection.png) <br>
-
-
+  
 
  * Select "Initialize variable"
  *  Click into the Value field, delete the text in the field and select the `flash`
