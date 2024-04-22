@@ -6,13 +6,12 @@ With this first experience in SAP Fiori, we would likec to create a new product 
 
 * Open https://powerapps.com/ and log in with your "Group User"). 
 
-* Select `Apps` 
 * Select `Update Product Data ES5` <br>
  ![Sign In](../media/quest2/1-select-app.png) <br>
 
 
-* Select `Skip  <br>
- ![Sign In](../media/quest2/2-Welcome-to-Power-Apps-Studio.png) <br>
+* Select `xxx`  <br>
+ ![Sign In](../xxx) <br>
 
 * xxx  <br>
  ![Sign In](../xxx) <br>
