@@ -145,7 +145,7 @@ During this quest you will create a Copilot in Copilot Studio and connect to SAP
  * Write `ProductID` as Input              
  * Select `Save draft` and `Publish` <br>
  ![Sign In](../media/quest3/27c-AutomateFlow-Input3.png) <br>
-* Select the "<-" to `Go back to previous page`<br>
+ * Select the "<-" to `Go back to previous page`<br>
 
  * Select the "+" above `Initialize variable` and select `Add an action`         
  ![Sign In](../media/quest3/28-AutomateFlow-AddAnAction2.png) <br>
@@ -175,10 +175,10 @@ During this quest you will create a Copilot in Copilot Studio and connect to SAP
  * Select `ProductID` from drop down menu                        
   ![Sign In](../media/quest3/30b-AutomateFlow-odata-ProductID.png) <br>
 
- <br>
- 
- * Click `Safe draft`                            
-  
+  * Click `Safe draft`                            
+  * Click `Publish`
+  * Select the "<-" to `Go back to previous page`<br>
+ <br> 
 
  * Select "Initialize variable"
  *  Click into the Value field, delete the text in the field and select the `flash`
