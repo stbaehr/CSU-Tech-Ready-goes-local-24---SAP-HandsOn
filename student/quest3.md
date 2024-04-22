@@ -53,7 +53,7 @@ During this quest you will create a Copilot in Copilot Studio and connect to SAP
  ![Sign In](../media/quest3/11-MySAPCopilot-AddAnAction.png) <br>
 
 
-* Select `Get started`                   
+* if appears => select `Get started`                   
  ![Sign In](../media/quest3/12-PowerAutomateGetStarted.png) <br>
 
 
@@ -76,7 +76,6 @@ During this quest you will create a Copilot in Copilot Studio and connect to SAP
 
 
 * Search for `Variable`
-* Select `See more`
 * Select `Initialize Variable`                                       
  ![Sign In](../media/quest3/16-PowerAutomate-AddAnAction2.png) <br>
 
