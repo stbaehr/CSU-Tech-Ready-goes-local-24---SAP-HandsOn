@@ -19,14 +19,14 @@ Find us on-site in Munich. We are looking forward to meeting you in person! 🤝
 
 | User name	    | User name	    | User name	    |
 |---------------|---------------|---------------|
-| user1@MngEnvMCAP602495.onmicrosoft.com	| user9@MngEnvMCAP602495.onmicrosoft.com	| user17@MngEnvMCAP602495.onmicrosoft.com	| 
-| user2@MngEnvMCAP602495.onmicrosoft.com	| user10@MngEnvMCAP602495.onmicrosoft.com	| user18@MngEnvMCAP602495.onmicrosoft.com	| 
-| user3@MngEnvMCAP602495.onmicrosoft.com	| user11@MngEnvMCAP602495.onmicrosoft.com	| user19@MngEnvMCAP602495.onmicrosoft.com	| 
-| user4@MngEnvMCAP602495.onmicrosoft.com	| user12@MngEnvMCAP602495.onmicrosoft.com	| user20@MngEnvMCAP602495.onmicrosoft.com	| 
-| user5@MngEnvMCAP602495.onmicrosoft.com	| user13@MngEnvMCAP602495.onmicrosoft.com	| user21@MngEnvMCAP602495.onmicrosoft.com	| 
-| user6@MngEnvMCAP602495.onmicrosoft.com	| user14@MngEnvMCAP602495.onmicrosoft.com	| user22@MngEnvMCAP602495.onmicrosoft.com	| 
-| user7@MngEnvMCAP602495.onmicrosoft.com	| user15@MngEnvMCAP602495.onmicrosoft.com	| user23@MngEnvMCAP602495.onmicrosoft.com	| 
-| user8@MngEnvMCAP602495.onmicrosoft.com	| user16@MngEnvMCAP602495.onmicrosoft.com	| user24@MngEnvMCAP602495.onmicrosoft.com   |
+| user1@bestruncorp.onmicrosoft.com	| user9@bestruncorp.onmicrosoft.com	| user17@bestruncorp.onmicrosoft.com	| 
+| user2@bestruncorp.onmicrosoft.com	| user10@bestruncorp.onmicrosoft.com	| user18@bestruncorp.onmicrosoft.com	| 
+| user3@bestruncorp.onmicrosoft.com	| user11@bestruncorp.onmicrosoft.com	| user19@bestruncorp.onmicrosoft.com	| 
+| user4@bestruncorp.onmicrosoft.com	| user12@bestruncorp.onmicrosoft.com	| user20@bestruncorp.onmicrosoft.com	| 
+| user5@bestruncorp.onmicrosoft.com	| user13@bestruncorp.onmicrosoft.com	| user21@bestruncorp.onmicrosoft.com	| 
+| user6@bestruncorp.onmicrosoft.com	| user14@bestruncorp.onmicrosoft.com	| user22@bestruncorp.onmicrosoft.com	| 
+| user7@bestruncorp.onmicrosoft.com	| user15@bestruncorp.onmicrosoft.com	| user23@bestruncorp.onmicrosoft.com	| 
+| user8@bestruncorp.onmicrosoft.com	| user16@bestruncorp.onmicrosoft.com	| user24@bestruncorp.onmicrosoft.com   |
 
 
 ## 🧙🏾‍♀️Epic Quests
