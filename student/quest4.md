@@ -1,4 +1,4 @@
-# Quest 4 - Chat against SAP Product 
+# Quest 4 - Chat with SAP - query SAP product 
 
 [ < Quest 3 ](quest3.md) - **[🏠Home](../README.md)**
 
