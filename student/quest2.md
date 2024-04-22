@@ -4,7 +4,7 @@
 
 With this first experience in SAP Fiori, we would likec to create a new product in SAP. To simplify the process we created a Power App for this task.
 
-* Open https://make.preview.powerapps.com/ and log in with your "Group User"). 
+* Open https://powerapps.com/ and log in with your "Group User"). 
 
 * Select `Apps` 
 * Select `Update Product Data ES5` <br>
