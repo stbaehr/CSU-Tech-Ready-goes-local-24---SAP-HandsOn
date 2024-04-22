@@ -96,8 +96,8 @@ During this quest you will create a Copilot in Copilot Studio and connect to SAP
  ![Sign In](../media/quest3/20-PowerAutomate-AddAnOutput.png) <br>
 
 
-* Click `Save draft`
-* Click `Publish`
+* Click `Save` / `Save draft`
+* Click `Publish` (if available)
  ![Sign In](../media/quest3/21-PowerAutomate-Publish.png) <br>
 
 
@@ -142,7 +142,8 @@ During this quest you will create a Copilot in Copilot Studio and connect to SAP
 
  * Select `+ Add an input`
  * Select `Text`
- * Write `ProductID` as Input                                
+ * Write `ProductID` as Input  
+ * Select the "<-" to `Go back to previous page`                              
  ![Sign In](../media/quest3/27c-AutomateFlow-Input3.png) <br>
 
 
