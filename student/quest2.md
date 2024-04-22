@@ -10,8 +10,8 @@ With this first experience in SAP Fiori, we would likec to create a new product 
  ![Sign In](../media/quest2/1-select-app.png) <br>
 
 
-* Select `xxx`  <br>
- ![Sign In](../xxx) <br>
+* Click `Refresh`  <br>
+ ![Sign In](../media/quest2/2-refresh.png) <br>
 
 * xxx  <br>
  ![Sign In](../xxx) <br>
