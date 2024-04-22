@@ -80,9 +80,9 @@ During this quest you will create a Copilot in Copilot Studio and connect to SAP
  ![Sign In](../media/quest3/16-PowerAutomate-AddAnAction2.png) <br>
 
 
-* Provide a Name `ReturVariable`
+* Provide a Name `ReturnVariable`
 * Select Type `String`
-* Provide `Initial Value`
+* Provide Initial Value - `This is some data from the Power Automate Flow`
 * Select `Respond to Copilot`
  ![Sign In](../media/quest3/17-PowerAutomate-Provide-a-Name.png) <br>
 
