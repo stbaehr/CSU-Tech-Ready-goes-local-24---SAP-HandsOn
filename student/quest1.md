@@ -8,7 +8,7 @@
 
 * Open a browser in Incognito Mode
 
-* Open the ES5 Webgui and `sign in` with user P2008276751 and password provided by your mentors.
+* Open the ES5 Webgui and `sign in` with user Pxxxxxxxx and password provided by your mentors.
  ```http
   https://sapes5.sapdevcenter.com/sap/bc/gui/sap/its/webgui
   ```
@@ -27,7 +27,7 @@
 
 
 
-* View product details be `clicking` on the ">" right hand site of the product
+* View product details be `clicking` on the ">" right hand site of the product `HT-1092`
 ![Sign In](../media/quest1/05-SelectProduct.png)
 
 
