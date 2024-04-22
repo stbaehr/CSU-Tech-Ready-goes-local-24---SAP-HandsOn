@@ -88,12 +88,8 @@ During this quest you will create a Copilot in Copilot Studio and connect to SAP
 
 
 * Click into `Enter a value to respond with`
-* Click the `flash`
- ![Sign In](../media/quest3/18-PowerAutomate-ValueToRespond.png) <br>
-
-
 * Select your `ReturnVariable`
- ![Sign In](../media/quest3/19-PowerAutomate-ReturnVariable.png) <br>
+ ![Sign In](../media/quest3/19b-PowerAutomate-ReturnVariable.png) <br>
 
 
 * Change the flow name and make it unique
