@@ -155,6 +155,17 @@ During this quest you will create a Copilot in Copilot Studio and connect to SAP
  * Search for the `odata` connector, scroll down the list and select the `Read OData entity` connector
   ![Sign In](../media/quest3/29-AutomateFlow-odata-Connector.png) <br>
 
+ * Fill the fileds <br>
+      Connection Name: `Read odata entity - TechReady` <br>
+      Authentication Type:`Basic` <br>
+      Odata Base URI: `https://sapes5.sapdevcenter.com/sap/opu/odata/iwbep/GWSAMPLE_BASIC` <br>
+      User: Pxxxxxxxxxx <br>
+      PW: xxxxxx <br>
+  <br>
+ * Select `Create New`
+   ![Sign In](../media/quest3/29b - Create Connection.png) <br>
+
+
 
  * Select Odata Entity Name `ProductSet` from drop down menu
  * Click into `ProductID` field and select the `flash` 
