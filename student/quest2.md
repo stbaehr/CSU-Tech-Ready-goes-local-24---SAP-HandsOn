@@ -12,17 +12,20 @@ With this first experience in SAP Fiori, we would likec to create a new product 
  ![Sign In](../media/quest2/1-select-app.png) <br>
 
 
+* Click `Sign in`  <br>
+ ![Sign In](../media/quest2/2b-sign-in.png) <br>
+
+* Enter Odata Base URI: `https://sapes5.sapdevcenter.com/sap/opu/odata/iwbep/GWSAMPLE_BASIC`
+* Enter User: Pxxxxx
+* Enter PW: xxxxxxxx <br>
+ ![Sign In](../media/quest2/2c-credentials.png) <br>
+
+ * Click `Allow`  <br>
+ ![Sign In](../media/quest2/2d-Allow.png) <br>
+
 * Click `Refresh`  <br>
  ![Sign In](../media/quest2/2-refresh.png) <br>
 
-* xxx  <br>
- ![Sign In](../media/quest2/2b-sign-in.png) <br>
-
-* xxx  <br>
- ![Sign In](../media/quest2/2c-credentials.png) <br>
-
- * xxx  <br>
- ![Sign In](../media/quest2/2d-Allow.png) <br>
 
 * Search for product HT-1092, you already checked in `Quest 1`
 * Click the `>` behind product HT-1092  <br>
