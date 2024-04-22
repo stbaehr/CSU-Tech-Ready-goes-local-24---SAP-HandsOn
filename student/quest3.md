@@ -142,7 +142,8 @@ During this quest you will create a Copilot in Copilot Studio and connect to SAP
 
  * Select `+ Add an input`
  * Select `Text`
- * Write `ProductID` as Input
+ * Write `ProductID` as Input              
+ * Select `Save draft` and `Publish`
  ![Sign In](../media/quest3/27c-AutomateFlow-Input3.png) <br>
 * Select the "<-" to `Go back to previous page`<br>
 
