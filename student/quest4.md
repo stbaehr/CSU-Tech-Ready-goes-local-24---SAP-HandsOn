@@ -6,7 +6,7 @@ As your SAP Product Copilot and Power Automate Flow are configured and you can c
 
 
 * Switch back to "Copilot" tab
-* Query the product you created in Quest 2 e.g. `HT-90<your group number>`HT-9025 `show me sap product information from SAP for product HT-9025`
+* Query the product you created in Quest 2 e.g. `HT-90<your group number>` `show me sap product information from SAP for product HT-9025` <br>
  ![Sign In](../media/quest4/4-check-product.png) <br>
 
 <br>
