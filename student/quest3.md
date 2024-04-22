@@ -189,7 +189,10 @@ During this quest you will create a Copilot in Copilot Studio and connect to SAP
  * Select `Name`, `Price` and `Description`
  ![Sign In](../media/quest3/32-AutomateFlow-ReturnInfo2.png) <br>
 
-
+  * Click `Safe draft`                            
+  * Click `Publish`
+  * Select the "<-" to `Go back to previous page`<br>
+ <br> 
 
  [!NOTE]
 > Note: Your SAP Product Copilot and Power Automate Flow are configured and you go on to Quest 4 
