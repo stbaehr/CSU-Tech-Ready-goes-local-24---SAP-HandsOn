@@ -147,7 +147,7 @@ During this quest you will create a Copilot in Copilot Studio and connect to SAP
  ![Sign In](../media/quest3/27c-AutomateFlow-Input3.png) <br>
 * Select the "<-" to `Go back to previous page`<br>
 
- * Select the "+" above `Initialize variable` and select `Add an action`
+ * Select the "+" above `Initialize variable` and select `Add an action`         
  ![Sign In](../media/quest3/28-AutomateFlow-AddAnAction2.png) <br>
 
 
