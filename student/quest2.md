@@ -13,12 +13,12 @@ With this first experience in SAP Fiori, we would likec to create a new product 
 * Click `Refresh`  <br>
  ![Sign In](../media/quest2/2-refresh.png) <br>
 
-* Click the `>` behind any existzing product  <br>
+* Click the `>` behind any existing product  <br>
  ![Sign In](../media/quest2/3-refresh-new.png) <br>
 
 
-* xxx  <br>
- ![Sign In](../xxx) <br>
+* Slesct `Create new`  <br>
+ ![Sign In](../media/quest2/4-create-new.png) <br>
 
 
 * xxx  <br>
