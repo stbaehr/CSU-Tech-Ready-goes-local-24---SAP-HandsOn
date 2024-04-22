@@ -11,8 +11,8 @@ With this first experience in SAP Fiori, we would likec to create a new product 
  ![Sign In](../media/quest2/1-select-app.png) <br>
 
 
-* xxx  <br>
- ![Sign In](../xxx) <br>
+* Select `Skip  <br>
+ ![Sign In](../media/quest2/2-Welcome-to-Power-Apps-Studio.png) <br>
 
 * xxx  <br>
  ![Sign In](../xxx) <br>
